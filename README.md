@@ -1,13 +1,14 @@
-# About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
-# Demo:
-http://robertcedwards.github.io/gh-pages-theme/
+# Snowdream
+My personal site  
+http://snowdream.github.io/
 
-# License
+#Acknowledgements
+robertcedwards 
 
+https://github.com/robertcedwards/gh-pages-theme
 
-
-
+##License
+```
 Copyright (C) 2011 We Creative
 
 This program is free software: you can redistribute it and/or modify
@@ -22,3 +23,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/gpl.html>.
+```
