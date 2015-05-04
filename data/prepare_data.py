@@ -3,7 +3,7 @@ import requests
 import click
 import click_config
 from operator import itemgetter
-from urlparse import urlparse
+from urllib.parse import urlparse
 import logging
 
 __author__ = 'joeysim'
